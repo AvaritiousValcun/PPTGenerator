@@ -1,6 +1,6 @@
 # Slide Studio
 
-Slide Studio is a simple web app for making presentation slides in the browser and exporting them as a PowerPoint file (.pptx). It has a modern dashboard-style interface where a user can add slides, edit content, choose themes, use ready-made templates, preview slides, and download the final presentation. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+Slide Studio is a simple web app for making presentation slides in the browser and exporting them as a PowerPoint file (.pptx). It has a modern dashboard-style interface where a user can add slides, choose themes, edit content, use ready-made templates, preview slides, and download the final presentation. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
 ## Features
 
@@ -21,7 +21,7 @@ Slide Studio is a simple web app for making presentation slides in the browser a
   - Delete slides
   - Clear all slides :contentReference[oaicite:4]{index=4}
 
-- Choose from multiple theme categories like dark, vibrant, pastel, neon, and corporate. You can also apply custom colors. :contentReference[oaicite:5]{index=5}
+- Choose from multiple theme categories like vibrant, dark, pastel, neon, and corporate. You can also apply custom colors. :contentReference[oaicite:5]{index=5}
 
 - Use quick templates such as:
   - Business
@@ -119,4 +119,4 @@ This project is useful for:
 
 ## Author
 
-You can change the author name, organization, and presentation title in the settings panel inside the app. :contentReference[oaicite:28]{index=28}
+You can change the author name, organization, and the presentation title in the settings panel inside the app. :contentReference[oaicite:28]{index=28}
